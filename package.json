@@ -1,0 +1,8 @@
+{
+  "name": "stagger",
+  "version": "0.0.1",
+  "dependencies": {
+    "msgpack2": "0.1.7",
+    "zmq": "2.5.1"
+  }
+}
