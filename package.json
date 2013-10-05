@@ -1,6 +1,7 @@
 {
   "name": "stagger",
   "version": "0.0.1",
+  "main": "index",
   "dependencies": {
     "async": "0.2.9",
     "msgpack2": "0.1.7",
