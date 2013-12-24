@@ -4,7 +4,7 @@
   "main": "index",
   "dependencies": {
     "async": "0.2.9",
-    "msgpack2": "0.1.7",
+    "msgpack2": "git+ssh://git@github.com:pgriess/node-msgpack.git#8398fa2bc65abfb87e82ba9f641635b2dd36f617",
     "zmq": "2.5.1"
   }
 }
