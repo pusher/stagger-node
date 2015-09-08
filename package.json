@@ -4,7 +4,6 @@
   "main": "index",
   "dependencies": {
     "async": "0.2.9",
-    "msgpack2": "0.1.7",
-    "zmq": "2.5.1"
+    "msgpack2": "0.1.7"
   }
 }
