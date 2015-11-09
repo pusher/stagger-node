@@ -4,6 +4,6 @@
   "main": "index",
   "dependencies": {
     "async": "0.2.9",
-    "msgpack2": "0.1.7"
+    "msgpack-lite": "0.1.13"
   }
 }
